@@ -1,0 +1,5 @@
+{
+  "name": "MangaGenius - AI Comic Creator",
+  "description": "Generate and edit multi-panel comics using Gemini 2.5 Flash. Features intelligent storyboarding and specific image editing capabilities.",
+  "requestFramePermissions": []
+}
